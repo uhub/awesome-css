@@ -1126,3 +1126,4 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [Rabrennie/anything.css](https://github.com/Rabrennie/anything.css) - Δ.CSS is a CSS Framework that accepts almost any pull request
 * [owl-stars/cssowl](https://github.com/owl-stars/cssowl) - Owl-Stars mixins library with support for LESS, SASS/SCSS & Stylus.
 * [coolfishstudio/cfs.animate.css](https://github.com/coolfishstudio/cfs.animate.css) - css3的运动样式库［完成］
+* [Blaze](https://github.com/BlazeUI/blaze) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.
