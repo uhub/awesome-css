@@ -389,3 +389,4 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [andrewsali/shinycssloaders](https://github.com/andrewsali/shinycssloaders) - Add CSS loader animations to Shiny outputs
 * [lc-ui/lcui.css](https://github.com/lc-ui/lcui.css) - A UI component framework for building LCUI application.
 * [Burry/organizr-v2-plex-theme](https://github.com/Burry/organizr-v2-plex-theme) - A theme for Organizr v2 that emulates the style of Plex
+* [milesmcc/a17t](https://github.com/milesmcc/a17t) - A customizable design library that provides atomic & customizable elements that work without fuss
