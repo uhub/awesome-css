@@ -368,7 +368,7 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [JonathanSpeek/spacegrid](https://github.com/JonathanSpeek/spacegrid) - A no-frills responsive grid layout to help you get started on your next project.
 * [jhfrench/bootstrap-tree](https://github.com/jhfrench/bootstrap-tree) - JavaScript and LESS/CSS for creating Bootstrap-themed trees (to display hierarchical data).
 * [mixu/cssbook](https://github.com/mixu/cssbook) - The book "Learn CSS layout the pedantic way"
-* [kanthvallampati/IVORY](https://github.com/kanthvallampati/IVORY) - IVORY is simple and highly customizable CSS framework, gives you all to build your pages faster and easier.
+* [IVORY-UI/ivory](https://github.com/IVORY-UI/ivory) - A modern CSS framework for developing powerful web interfaces faster and easier.
 * [bonsaicss/bonsai.css](https://github.com/bonsaicss/bonsai.css) - A Utility Complete CSS Framework for less than 45kb (8kB Gzipped) -
 * [brandon-rhodes/Concentric-CSS](https://github.com/brandon-rhodes/Concentric-CSS) - A standard order for CSS properties that starts at the outer edge of the box model and moves inward
 * [alecrios/core-reset](https://github.com/alecrios/core-reset) - A CSS reset that reduces all elements to their most basic forms
@@ -804,7 +804,6 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [nstaeger/WordPress-UIkit-Starter-Theme](https://github.com/nstaeger/WordPress-UIkit-Starter-Theme) - A WordPress starter theme for developers using the frontend framework UIkit
 * [MatrixAge/atom.css](https://github.com/MatrixAge/atom.css) - :kissing_closed_eyes: A atom-style library of CSS atomic elements. To build app faster and more flexible.
 * [liabru/material-design-type](https://github.com/liabru/material-design-type) - a simple css implementation of material design typography
-* [IVORY-UI/ivory](https://github.com/IVORY-UI/ivory) - A modern CSS framework for developing powerful web interfaces faster and easier.
 * [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 * [efrolic/css](https://github.com/efrolic/css) - eFrolic | CSS framework which without using JavaScript is interactive and animated.
 * [AlexFlipnote/Modesta](https://github.com/AlexFlipnote/Modesta) - 🎨 A clean CSS framework made to be dark, responsive and easy to build with.
