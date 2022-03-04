@@ -11,6 +11,7 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 * [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 * [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+* [css-checker](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts (CSS 查重)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 * [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 * [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
