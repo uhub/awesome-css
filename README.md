@@ -959,3 +959,4 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 * [claviska/shoelace-css](https://github.com/claviska/shoelace-css) - A back to the basics CSS starter kit.
 * [albinotonnina/albinotonnina.com](https://github.com/albinotonnina/albinotonnina.com) - source-code
+* [andreaabellera/casually-css](https://github.com/andreaabellera/Casually-CSS) - You're a function away from summoning a Hippo 🦛, Bison 🦬, among 15+ pure CSS interactive animated artworks for your site. For SvelteJS components, pass props to change colors and dictate animations!
