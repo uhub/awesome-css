@@ -6,29 +6,28 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 * [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 * [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-* [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+* [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 * [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 * [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 * [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 * [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 * [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
-* [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 * [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
+* [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
+* [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 * [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 * [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 * [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 * [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 * [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 * [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
-* [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+* [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 * [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 * [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 * [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 * [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
-* [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 * [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 * [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 * [joshuaclayton/blueprint-css](https://github.com/joshuaclayton/blueprint-css) - A CSS framework that aims to cut down on your CSS development time
@@ -43,13 +42,13 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
 * [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 * [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+* [franciscop/picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 * [adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Websites
 * [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [blivesta/animsition](https://github.com/blivesta/animsition) - A simple and easy jQuery plugin for CSS animated page transitions.
-* [franciscop/picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 * [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-* [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+* [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 * [HunterLarco/voxel.css](https://github.com/HunterLarco/voxel.css) - A lightweight 3D CSS voxel library.
 * [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 * [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -66,36 +65,36 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [mdo/wtf-forms](https://github.com/mdo/wtf-forms) - Friendlier HTML form controls with a little CSS magic.
 * [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 * [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
-* [cjcenizal/flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components.
 * [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+* [cjcenizal/flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components.
 * [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 * [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 * [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) - Responsive Portfolio Website Using HTML, CSS & JavaScript
 * [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
 * [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 * [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
-* [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 * [codrops/PageTransitions](https://github.com/codrops/PageTransitions) - A showcase collection of various page transition effects using CSS animations.
+* [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 * [csstools/postcss-preset-env](https://github.com/csstools/postcss-preset-env) - Convert modern CSS into something browsers understand
 * [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
+* [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * [twitter-archive/recess](https://github.com/twitter-archive/recess) - A simple and attractive code quality tool for CSS built on top of LESS
 * [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
-* [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * [ThrivingKings/animo.js](https://github.com/ThrivingKings/animo.js) - A powerful little tool for managing CSS animations
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 * [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
 * [flatlogic/awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
 * [kbrsh/wing](https://github.com/kbrsh/wing) - :gem: A beautiful CSS framework designed for minimalists.
-* [daneden/Toast](https://github.com/daneden/Toast) - 🍞 A highly-customizable, responsive (S)CSS grid
 * [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
+* [daneden/Toast](https://github.com/daneden/Toast) - 🍞 A highly-customizable, responsive (S)CSS grid
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
-* [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
 * [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
+* [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
 * [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
+* [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 * [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
 * [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.
 * [kumailht/flakes](https://github.com/kumailht/flakes) - Flakes is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help you build business tools very quickly.
-* [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 * [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
 * [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
 * [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
@@ -110,28 +109,28 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [tylerchilds/cutestrap](https://github.com/tylerchilds/cutestrap) - A strong, independent CSS Framework. Only 2.7KB minified & gzipped.
 * [jaunesarmiento/fries](https://github.com/jaunesarmiento/fries) - Fries helps you prototype Android apps using HTML, CSS, and JavaScript.
 * [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
+* [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 * [thoughtbot/refills](https://github.com/thoughtbot/refills) - [no longer maintained]
 * [KyleAMathews/react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
 * [csswizardry/csswizardry-grids](https://github.com/csswizardry/csswizardry-grids) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 * [rohitkrai03/pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans. View Demo -
-* [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
-* [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
-* [mdo/wtf-html-css](https://github.com/mdo/wtf-html-css) - Common reasons your HTML and CSS may be fucked.
 * [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
+* [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
+* [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
+* [mdo/wtf-html-css](https://github.com/mdo/wtf-html-css) - Common reasons your HTML and CSS may be fucked.
 * [mrmrs/pesticide](https://github.com/mrmrs/pesticide) - Kill your css layout bugs
-* [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+* [ghosh/microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
 * [devlint/gridlex](https://github.com/devlint/gridlex) - Just a CSS Flexbox Grid System
 * [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
-* [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 * [ubuwaits/css3-buttons](https://github.com/ubuwaits/css3-buttons) - A collection of CSS3 buttons implemented in Sass.
 * [chrisnager/ungrid](https://github.com/chrisnager/ungrid) - ungrid - the simplest responsive css grid
 * [wesbos/aprilFools.css](https://github.com/wesbos/aprilFools.css) - Harmlessly goof up your co-workers browser and chrome dev tools
 * [marmelab/universal.css](https://github.com/marmelab/universal.css) - The only CSS you will ever need
 * [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 * [filamentgroup/select-css](https://github.com/filamentgroup/select-css) - Cross-browser styles for consistent select element styling
-* [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 * [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
+* [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 * [delight-im/HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
 * [adobe/spectrum-css](https://github.com/adobe/spectrum-css) - The standard CSS implementation of the Spectrum design language.
 * [Chalarangelo/mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
@@ -140,11 +139,11 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [benschwarz/gallery-css](https://github.com/benschwarz/gallery-css) - CSS only Gallery
 * [richleland/pygments-css](https://github.com/richleland/pygments-css) - css files created from pygment's built-in styles
 * [peduarte/wallop](https://github.com/peduarte/wallop) - :no_entry: currently unmaintained :no_entry: A minimal JS library for showing & hiding things
+* [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css) - Custom CSS theme for doxygen html-documentation with lots of customization parameters.
 * [kdzwinel/SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 * [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
-* [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css) - Custom CSS theme for doxygen html-documentation with lots of customization parameters.
-* [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
 * [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
+* [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
 * [webkul/csspin](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code for Pure CSS Loader and Spinner
 * [danielcardoso/load-awesome](https://github.com/danielcardoso/load-awesome) - An awesome collection of — Pure CSS — Loaders and Spinners
 * [chokcoco/css3-](https://github.com/chokcoco/css3-) - CSS3 实现各类 3D && 3D 行星动画效果
@@ -153,76 +152,76 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [femmebot/google-type](https://github.com/femmebot/google-type) - Collaborative typography project using select passages from Aesop's Fables set to Google Fonts
 * [anselmh/object-fit](https://github.com/anselmh/object-fit) - Polyfill (mostly IE) for CSS object-fit property to fill-in/fit-in images into containers.
 * [bwsewell/tablecloth](https://github.com/bwsewell/tablecloth) - A CSS and JS bootstrap to style and manipulate data tables
-* [szynszyliszys/repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 * [josephfusco/angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
+* [szynszyliszys/repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 * [parkerbennett/stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands.
+* [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 * [susam/spcss](https://github.com/susam/spcss) - A simple, minimal, classless stylesheet for simple HTML pages
 * [Athari/CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
-* [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
-* [jlong/css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
 * [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
+* [jlong/css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
 * [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
+* [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 * [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
 * [Mobirise/Mobirise](https://github.com/Mobirise/Mobirise) - AI Website Builder, Open Source, Bootstrap 5
-* [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
 * [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
+* [nagoshiashumari/Rpg-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) - A fantasy themed font and CSS toolkit.
+* [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 * [sierra-library/sierra](https://github.com/sierra-library/sierra) - Sierra SCSS library
 * [geddski/csstyle](https://github.com/geddski/csstyle) - MOVED TO https://github.com/csstyle/csstyle     a modern approach for crafting beautifully maintainable stylesheets
 * [adamsilver/maintainablecss.com-jekyll](https://github.com/adamsilver/maintainablecss.com-jekyll) - Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
 * [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
-* [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 * [nathansmith/adapt](https://github.com/nathansmith/adapt) - Adapt.js serves CSS based on screen width.
 * [IcaliaLabs/furatto](https://github.com/IcaliaLabs/furatto) - It's a flat, fast and powerful front-end framework for  rapid web development.
-* [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 * [csstools/postcss-normalize](https://github.com/csstools/postcss-normalize) - Use the parts of normalize.css (or sanitize.css) you need from your browserslist
 * [devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
-* [rsms/raster](https://github.com/rsms/raster) - Raster — simple CSS grid system
 * [jpswalsh/academicons](https://github.com/jpswalsh/academicons) - An icon font for academics
+* [rsms/raster](https://github.com/rsms/raster) - Raster — simple CSS grid system
 * [turretcss/turretcss](https://github.com/turretcss/turretcss) - Turret is a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 * [yocontra/windows_98.css](https://github.com/yocontra/windows_98.css) - some sick styles for your guestbook
-* [asciimoo/cssplot](https://github.com/asciimoo/cssplot) - Pure CSS charts
-* [arbelh/HalfStyle](https://github.com/arbelh/HalfStyle) - Style Half of a Character by CSS
-* [ace-subido/css3-microsoft-metro-buttons](https://github.com/ace-subido/css3-microsoft-metro-buttons) - my CSS3 library for making Microsoft-metro themed buttons
 * [hasan-py/MERN_Stack_Project_Ecommerce_Hayroo](https://github.com/hasan-py/MERN_Stack_Project_Ecommerce_Hayroo) - E-commerce Website | Payment gateway | Reactjs | Nodejs | Mongodb | Expressjs | JWT | Tailwind Css
+* [arbelh/HalfStyle](https://github.com/arbelh/HalfStyle) - Style Half of a Character by CSS
+* [asciimoo/cssplot](https://github.com/asciimoo/cssplot) - Pure CSS charts
+* [ace-subido/css3-microsoft-metro-buttons](https://github.com/ace-subido/css3-microsoft-metro-buttons) - my CSS3 library for making Microsoft-metro themed buttons
 * [laurenwaller/cssco](https://github.com/laurenwaller/cssco) - Photographic filters made with CSS, inspired by VSCO and CSSgram
 * [gromo/jquery.scrollbar](https://github.com/gromo/jquery.scrollbar) - jQuery CSS Customizable Scrollbar
-* [Theigrams/My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes) - A CSS style for Typora
 * [comehope/front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of August 2021, 170+ works have been accomplished, challenge yourself each day!
-* [anjlab/bootstrap-rails](https://github.com/anjlab/bootstrap-rails) - Twitter Bootstrap CSS (with Sass flavour) and JS toolkits for Rails 3 projects
+* [Theigrams/My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes) - A CSS style for Typora
+* [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 * [codrops/IconHoverEffects](https://github.com/codrops/IconHoverEffects) - A set of simple round icon hover effects with CSS transitions and animations for your inspiration.
+* [anjlab/bootstrap-rails](https://github.com/anjlab/bootstrap-rails) - Twitter Bootstrap CSS (with Sass flavour) and JS toolkits for Rails 3 projects
 * [tlrobinson/evil.css](https://github.com/tlrobinson/evil.css) - Because CSS isn't evil enough already.
 * [Rosmaninho/Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) - userChrome.css file for a Zotero dark theme. Suggestions for improvements are welcome.
 * [ihorzenich/html5checklist](https://github.com/ihorzenich/html5checklist) - HTML/CSS markup checklist
 * [cardinalcss/cardinalcss](https://github.com/cardinalcss/cardinalcss) - A modular, “mobile-first” CSS framework built with performance and scalability in mind.
+* [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 * [tailwindlabs/designing-with-tailwindcss](https://github.com/tailwindlabs/designing-with-tailwindcss) - Source code for the "Designing with Tailwind CSS" course.
+* [PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript) - 50 Projects In 50 Days - HTML, CSS & JavaScript, by Packt Publishing
 * [HubSpot/tooltip](https://github.com/HubSpot/tooltip) - CSS Tooltips built on Tether. #hubspot-open-source
 * [Andy-set-studio/boilerform](https://github.com/Andy-set-studio/boilerform) - Boilerform is a little HTML and CSS boilerplate to take the pain away from working with forms.
 * [StefanKovac/flex-layout-attribute](https://github.com/StefanKovac/flex-layout-attribute) - HTML layout helper based on CSS flexbox specification  —
-* [PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript) - 50 Projects In 50 Days - HTML, CSS & JavaScript, by Packt Publishing
-* [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 * [balzss/luxbar](https://github.com/balzss/luxbar) - :cocktail: Featherweight, Responsive, CSS Only Navigation Bar
-* [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 * [redroot/holmes](https://github.com/redroot/holmes) - Holmes is stand-alone diagnostic CSS stylesheet that can highlight potentially invalid or erroneous HTML(5) markup by adding one class
-* [jonikorpi/Less-Framework](https://github.com/jonikorpi/Less-Framework) - An adaptive CSS grid system.
 * [720kb/radiobox.css](https://github.com/720kb/radiobox.css) - :radio_button: Tiny set of pure CSS animations for your radio inputs. https://720kb.github.io/radiobox.css/
+* [jonikorpi/Less-Framework](https://github.com/jonikorpi/Less-Framework) - An adaptive CSS grid system.
 * [codrops/CSSGlitchEffect](https://github.com/codrops/CSSGlitchEffect) - An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.
 * [codrops/OffCanvasMenuEffects](https://github.com/codrops/OffCanvasMenuEffects) - Some inspiration for off-canvas menu effects and styles using CSS transitions and SVG path animations.
-* [tiaanduplessis/wenk](https://github.com/tiaanduplessis/wenk) - :wink: Lightweight pure CSS tooltip for the greater good
 * [michenriksen/css3buttons](https://github.com/michenriksen/css3buttons) - Simple CSS3 framework for creating GitHub-style buttons
+* [tiaanduplessis/wenk](https://github.com/tiaanduplessis/wenk) - :wink: Lightweight pure CSS tooltip for the greater good
 * [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 * [ShaifArfan/one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project) - This project is for html & css practice. We made this for youtube tutorial purpose.
 * [t0m/select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css) - simple css to make select2 widgets fit in with bootstrap
-* [gevendra2004/gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
-* [nisarhassan12/portfolio-template](https://github.com/nisarhassan12/portfolio-template) - A beautiful minimal and accessible portfolio template for Developers. Give it a star 🌟 if you find it useful.
-* [geoffgraham/animate.scss](https://github.com/geoffgraham/animate.scss) - Sass mixins based on Dan Eden's Animate.css
 * [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
-* [cobyism/gridism](https://github.com/cobyism/gridism) - A simple responsive CSS grid.
-* [arashmanteghi/simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass
-* [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
-* [WhatsNewSaes/Skeleton-Sass](https://github.com/WhatsNewSaes/Skeleton-Sass) - The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-* [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
-* [lucagez/medium.css](https://github.com/lucagez/medium.css) - Compact typography for the web
 * [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
+* [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
+* [nisarhassan12/portfolio-template](https://github.com/nisarhassan12/portfolio-template) - A beautiful minimal and accessible portfolio template for Developers. Give it a star 🌟 if you find it useful.
+* [gevendra2004/gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
+* [geoffgraham/animate.scss](https://github.com/geoffgraham/animate.scss) - Sass mixins based on Dan Eden's Animate.css
+* [cobyism/gridism](https://github.com/cobyism/gridism) - A simple responsive CSS grid.
+* [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
+* [arashmanteghi/simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass
+* [WhatsNewSaes/Skeleton-Sass](https://github.com/WhatsNewSaes/Skeleton-Sass) - The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+* [lucagez/medium.css](https://github.com/lucagez/medium.css) - Compact typography for the web
 * [scottparry/Workless](https://github.com/scottparry/Workless) - Workless is a CSS base framework to get your projects up and running as quickly as possible.
 * [colourgarden/avalanche](https://github.com/colourgarden/avalanche) - Superclean, powerful, responsive, Sass-based, BEM-syntax CSS grid system
 * [picturepan2/fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The customizable pure CSS file icons
@@ -236,8 +235,8 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [necolas/css3-facebook-buttons](https://github.com/necolas/css3-facebook-buttons) - Simple CSS to recreate the appearance of Facebook's buttons and toolbars.
 * [teacat/tocas](https://github.com/teacat/tocas) - 👀 The fastest and most intuitive way to build diverse websites and progressive web application interfaces.
 * [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
-* [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - feuille de styles CSS sur-vitaminée
 * [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
+* [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - feuille de styles CSS sur-vitaminée
 * [kogakure/gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
 * [aozora/bootplus](https://github.com/aozora/bootplus) - Sleek, intuitive, and powerful Google styled front-end framework for faster and easier web development
 * [nitinhayaran/Justified.js](https://github.com/nitinhayaran/Justified.js) - jQuery Plugin to create Justified Image Gallery
@@ -249,37 +248,37 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [tholman/obnoxious.css](https://github.com/tholman/obnoxious.css) - Animations for the strong of heart, and stupid of mind.
 * [corysimmons/boy](https://github.com/corysimmons/boy) - :boy: A very opinionated, lightweight version of HTML5 Boilerplate with conditionally-loaded polyfills and an opinionated CSS reset for firing up web projects in no time.
 * [level09/enferno](https://github.com/level09/enferno) - This collection of modern libraries and tools, built on top of the Flask framework, allows you to quickly create any website or web-based application (SAAS) with impressive speed.
+* [CyanVoxel/Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
 * [kennethormandy/utility-opentype](https://github.com/kennethormandy/utility-opentype) - Simple, CSS utility classes for advanced typographic features.
 * [typlog/yue.css](https://github.com/typlog/yue.css) - A typography stylesheet for readable content
-* [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
 * [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) -  :mortar_board: Dark Wikipedia
+* [buseca/patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
 * [callmenick/Animating-Hamburger-Icons](https://github.com/callmenick/Animating-Hamburger-Icons) - Animating CSS-only hamburger menu icons
 * [jkphl/iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
-* [CyanVoxel/Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
 * [Axel--/Naut-for-reddit](https://github.com/Axel--/Naut-for-reddit) - A css theme for reddit.com
-* [mdo/table-grid](https://github.com/mdo/table-grid) - Simple CSS grid system using `display: table;`.
 * [ShaifArfan/30days30submits](https://github.com/ShaifArfan/30days30submits) - This is a challenge that I took to boost my HTML, CSS & JS skills. I made 30 submits and they are basically some little components or js apps.
 * [necolas/css3-social-signin-buttons](https://github.com/necolas/css3-social-signin-buttons) - CSS3 Social Sign-in Buttons with icons. Small and large sizes.
+* [mdo/table-grid](https://github.com/mdo/table-grid) - Simple CSS grid system using `display: table;`.
 * [almonk/pylon](https://github.com/almonk/pylon) - Declarative layout primitives for CSS & HTML
 * [TryKickoff/kickoff](https://github.com/TryKickoff/kickoff) - :basketball: A lightweight front-end framework  for creating scalable, responsive sites. Version 8 has just been released!
 * [c0bra/markdown-resume-js](https://github.com/c0bra/markdown-resume-js) - Turn a simple markdown document into a resume in HTML and PDF
+* [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 * [joerez/Woah.css](https://github.com/joerez/Woah.css) - CSS Animation Library for eccentrics
 * [codrops/SlitSlider](https://github.com/codrops/SlitSlider) - A responsive slideshow with a twist: the idea is to slice open the current slide when navigating to the next or previous one. Using jQuery and CSS animations we can create unique slide transitions for the content elements.
 * [mvcss/mvcss](https://github.com/mvcss/mvcss) - Sass-based CSS Architecture
 * [shakrmedia/tuesday](https://github.com/shakrmedia/tuesday) - A quirky CSS Animation Library by Shakr
-* [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
-* [bjork24/Unison](https://github.com/bjork24/Unison) - Unifying named breakpoints across CSS, JS, and HTML
-* [Myndex/SAPC-APCA](https://github.com/Myndex/SAPC-APCA) - APCA (Accessible Perceptual Contrast Algorithm) is a new method for predicting contrast for use in emerging web standards (WCAG 3) for determining readability contrast. APCA is derived form the SAPC (S-LUV Advanced Predictive Color) which is an accessibility-oriented color appearance model designed for self-illuminated displays.
 * [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
+* [Myndex/SAPC-APCA](https://github.com/Myndex/SAPC-APCA) - APCA (Accessible Perceptual Contrast Algorithm) is a new method for predicting contrast for use in emerging web standards (WCAG 3) for determining readability contrast. APCA is derived form the SAPC (S-LUV Advanced Predictive Color) which is an accessibility-oriented color appearance model designed for self-illuminated displays.
+* [bjork24/Unison](https://github.com/bjork24/Unison) - Unifying named breakpoints across CSS, JS, and HTML
 * [h01000110/windows-95](https://github.com/h01000110/windows-95) - Jekyll Theme
-* [uisual/freebies](https://github.com/uisual/freebies) - Source code for Uisual templates. Free HTML/CSS landing page templates for startups. New template every week.
 * [atom/one-dark-syntax](https://github.com/atom/one-dark-syntax) - Atom One dark syntax theme
-* [codrops/ClickEffects](https://github.com/codrops/ClickEffects) - A set of subtle effects for click or touch interactions inspired by the visualization of screen taps in mobile app showcases. The effects are done with CSS animations mostly on pseudo-elements.
+* [uisual/freebies](https://github.com/uisual/freebies) - Source code for Uisual templates. Free HTML/CSS landing page templates for startups. New template every week.
 * [jackdomleo7/Checka11y.css](https://github.com/jackdomleo7/Checka11y.css) - A CSS stylesheet to quickly highlight a11y concerns.
+* [codrops/ClickEffects](https://github.com/codrops/ClickEffects) - A set of subtle effects for click or touch interactions inspired by the visualization of screen taps in mobile app showcases. The effects are done with CSS animations mostly on pseudo-elements.
 * [JonHMChan/descartes](https://github.com/JonHMChan/descartes) - Descartes | Write CSS in JavaScript
 * [JaniRefsnes/w3css](https://github.com/JaniRefsnes/w3css) - W3.CSS - CSS Framework
-* [eliortabeka/tootik](https://github.com/eliortabeka/tootik) - A pure CSS/SCSS/LESS Tooltips library. Super easy to use, No JavaScript required.
 * [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
+* [eliortabeka/tootik](https://github.com/eliortabeka/tootik) - A pure CSS/SCSS/LESS Tooltips library. Super easy to use, No JavaScript required.
 * [rupl/unfold](https://github.com/rupl/unfold) - Unfolding the Box Model — interactive slides exploring CSS 3D Transforms
 * [bedimcode/responsive-portfolio-website-Ansel](https://github.com/bedimcode/responsive-portfolio-website-Ansel) - Create a Responsive Personal Portfolio Website Using HTML CSS &  JavaScript
 * [petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) - A simple bookshelf made in CSS, HTML and vanilla JS.
@@ -295,152 +294,156 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [ElyaConrad/Photon](https://github.com/ElyaConrad/Photon) - Clone native desktop UI's like cocoa and develop native feeling applications using web technologies
 * [riccardoscalco/crayon](https://github.com/riccardoscalco/crayon) - Crayon.css is a list of css variables linking color names to hex values.
 * [sitetent/tentcss](https://github.com/sitetent/tentcss) - :herb: A CSS survival kit. Includes only the essentials to make camp.
-* [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
 * [zhangxinxu/zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css) - a css library for quick layout, especially for flow layout
 * [darklow/social-share-kit](https://github.com/darklow/social-share-kit) - Library of decent and good looking CSS/JavaScript social sharing icons, buttons and popups
 * [robertpiira/ingrid](https://github.com/robertpiira/ingrid) - A fluid CSS layout system
 * [sliminality/ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 * [robsheldon/sscaffold-css](https://github.com/robsheldon/sscaffold-css) - Base file for sscaffold-css.
-* [tomgenoni/cssdig-chrome](https://github.com/tomgenoni/cssdig-chrome) - Chrome extension for analyzing CSS.
+* [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS.
 * [fajarnurwahid/adminhub](https://github.com/fajarnurwahid/adminhub) - Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+* [tomgenoni/cssdig-chrome](https://github.com/tomgenoni/cssdig-chrome) - Chrome extension for analyzing CSS.
 * [jonjaques/react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
 * [jessekorzan/expodal](https://github.com/jessekorzan/expodal) - The Most Explosive Modal on The Web.
-* [leny/kouto-swiss](https://github.com/leny/kouto-swiss) - A complete CSS framework for Stylus
-* [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS.
 * [hzsrc/webpack-theme-color-replacer](https://github.com/hzsrc/webpack-theme-color-replacer) - A runtime dynamic theme color replacement plugin for webpack.
+* [leny/kouto-swiss](https://github.com/leny/kouto-swiss) - A complete CSS framework for Stylus
 * [bonsaicss/bonsai.css](https://github.com/bonsaicss/bonsai.css) - A Utility Complete CSS Framework for less than 45kb (8kB Gzipped) -
+* [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 * [amdelamar/pm-theme](https://github.com/amdelamar/pm-theme) - 🎨 Easy Themes for ProtonMail (v3.16.x)
 * [necolas/griddle](https://github.com/necolas/griddle) - A CSS grid constructor
 * [mor10/kuhn](https://github.com/mor10/kuhn) - WordPress theme featuring CSS Grid layouts via aggressive progressive enhancement. Proof of concept to get the conversation about what CSS Grid means for WordPress themes started. Currently running live at https://mor10.com
-* [LeonidasEsteban/rick-morty-vanilla](https://github.com/LeonidasEsteban/rick-morty-vanilla) - Web App using the rick and morty API in Vanilla.js
 * [zero-to-mastery/Animation-Nation](https://github.com/zero-to-mastery/Animation-Nation) - A ZTM Challenge for Hacktoberfest
+* [LeonidasEsteban/rick-morty-vanilla](https://github.com/LeonidasEsteban/rick-morty-vanilla) - Web App using the rick and morty API in Vanilla.js
 * [lvwzhen/iconpark](https://github.com/lvwzhen/iconpark) - Collection of iconfonts
 * [zalando/gulp-check-unused-css](https://github.com/zalando/gulp-check-unused-css) - A build tool for checking your HTML templates for unused CSS classes
-* [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 * [mildrenben/surface](https://github.com/mildrenben/surface) - A Material Design CSS only framework
+* [CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
 * [vladocar/CSS-Micro-Reset](https://github.com/vladocar/CSS-Micro-Reset) - Minimal barebone CSS Reset
 * [bansal/filters.css](https://github.com/bansal/filters.css) - CSS only library to apply color filters.
 * [sparkbox/style-prototype](https://github.com/sparkbox/style-prototype) - Example of an HTML/CSS style tile.
 * [siberiawolf/siberiawolf.github.io](https://github.com/siberiawolf/siberiawolf.github.io) - Siberiawolf的小窝
-* [LeonidasEsteban/bookmark-landing](https://github.com/LeonidasEsteban/bookmark-landing) - Challenge #3 by FrontendMentor.io
 * [codrops/LineHoverStyles](https://github.com/codrops/LineHoverStyles) - A couple of simple & subtle line hover animations for links using CSS only.
+* [LeonidasEsteban/bookmark-landing](https://github.com/LeonidasEsteban/bookmark-landing) - Challenge #3 by FrontendMentor.io
+* [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 * [3r3bu5x9/Prismatic-Night](https://github.com/3r3bu5x9/Prismatic-Night) - A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta.
 * [timonweb/django-bulma](https://github.com/timonweb/django-bulma) - Bulma theme for Django
-* [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 * [ireade/formhack](https://github.com/ireade/formhack) - A hackable css form reset
-* [CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
 * [iRaul/pushy-buttons](https://github.com/iRaul/pushy-buttons) - 👇 CSS Pressable 3D Buttons
 * [mayank99/reset.css](https://github.com/mayank99/reset.css) - a css reset for 2024 and beyond.
+* [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 * [GoalSmashers/css-minification-benchmark](https://github.com/GoalSmashers/css-minification-benchmark) - A comparison of CSS minifiers for node.js
 * [mrmrs/btns](https://github.com/mrmrs/btns) - A set of css utilities for constructing beautiful responsive buttons
-* [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 * [ariona/hover3d](https://github.com/ariona/hover3d) - Simple jQuery plugin for 3d Hover effect
 * [lazarljubenovic/grassy](https://github.com/lazarljubenovic/grassy) - Build layout through ASCII art in Sass (and more). No pre-built CSS. No additional markup.
 * [cyanharlow/purecss-vignes](https://github.com/cyanharlow/purecss-vignes) - HTML/CSS drawing in the style of 1930s poster art. Hand-coded entirely in HTML & CSS.
-* [mac81/pure-drawer](https://github.com/mac81/pure-drawer) - Pure CSS transition effects for off-canvas views
-* [alistairtweedie/pintsize](https://github.com/alistairtweedie/pintsize) - Customisable 💪  Flexbox grid system
 * [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
-* [Basir-PD/100-Projects-HTML-CSS-JavaScript](https://github.com/Basir-PD/100-Projects-HTML-CSS-JavaScript) - 100 Projects Challenge
-* [arnaudleray/pocketgrid](https://github.com/arnaudleray/pocketgrid) - PocketGrid is a lightweight pure CSS grid system for Responsive Web Design. Moreover, it is semantic, mobile-first, and allows to have an unlimited number of columns and breakpoints.
+* [mac81/pure-drawer](https://github.com/mac81/pure-drawer) - Pure CSS transition effects for off-canvas views
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
+* [Basir-PD/100-Projects-HTML-CSS-JavaScript](https://github.com/Basir-PD/100-Projects-HTML-CSS-JavaScript) - 100 Projects Challenge
+* [alistairtweedie/pintsize](https://github.com/alistairtweedie/pintsize) - Customisable 💪  Flexbox grid system
 * [zero-to-mastery/CSS-Art](https://github.com/zero-to-mastery/CSS-Art) - General Edition - A CSS art challenge, for all skill levels
-* [static-dev/axis](https://github.com/static-dev/axis) - terse, modular & powerful css library
-* [jez/tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
+* [arnaudleray/pocketgrid](https://github.com/arnaudleray/pocketgrid) - PocketGrid is a lightweight pure CSS grid system for Responsive Web Design. Moreover, it is semantic, mobile-first, and allows to have an unlimited number of columns and breakpoints.
 * [marella/material-icons](https://github.com/marella/material-icons) - Latest icon fonts and CSS for self-hosting material design icons.
+* [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
+* [jez/tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
+* [static-dev/axis](https://github.com/static-dev/axis) - terse, modular & powerful css library
 * [projectwallace/css-analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS
 * [jonathanharrell/hiq](https://github.com/jonathanharrell/hiq) - A lightweight, progressive, high-IQ CSS framework.
 * [danieljpalmer/alptail](https://github.com/danieljpalmer/alptail) - A collection of frontend components using Tailwind.css and Alpine.js.
-* [pixelastic/css-flags](https://github.com/pixelastic/css-flags) - Flags of the world with only one div
 * [dmhendricks/file-icon-vectors](https://github.com/dmhendricks/file-icon-vectors) - A collection of file type icons in SVG format
+* [pixelastic/css-flags](https://github.com/pixelastic/css-flags) - Flags of the world with only one div
 * [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
 * [brandon-rhodes/Concentric-CSS](https://github.com/brandon-rhodes/Concentric-CSS) - A standard order for CSS properties that starts at the outer edge of the box model and moves inward
-* [jfbrennan/m-](https://github.com/jfbrennan/m-) - The modern web's design system.
-* [sapondanaisriwan/AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
 * [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
+* [sapondanaisriwan/AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
+* [jfbrennan/m-](https://github.com/jfbrennan/m-) - The modern web's design system.
 * [propjockey/css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 * [curiositry/mnml-ghost-theme](https://github.com/curiositry/mnml-ghost-theme) - A minimal, responsive, fast Ghost 5.0 blog theme with great typography. Comes with paid membership support, Disqus comments, syntax highlighting, and KaTeX for mathematics, and more.
-* [BootstrapDash/corona-free-dark-bootstrap-admin-template](https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template) - Free dark admin template based on Bootstrap 4.
 * [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
+* [BootstrapDash/corona-free-dark-bootstrap-admin-template](https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template) - Free dark admin template based on Bootstrap 4.
+* [mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 * [tylergaw/css-shaky-animation](https://github.com/tylergaw/css-shaky-animation) - Shits shakin' yo
 * [chris-pearce/scally](https://github.com/chris-pearce/scally) - Scally is a Sass-based, BEM, OOCSS, responsive-ready, CSS framework that provides you with a solid foundation for building reusable UI's quickly 🕶
-* [mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
+* [jritsema/go-htmx-tailwind-example](https://github.com/jritsema/go-htmx-tailwind-example) - Example CRUD app written in Go + HTMX + Tailwind CSS
 * [yamlcss/yaml](https://github.com/yamlcss/yaml) - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.
 * [BlessCSS/bless](https://github.com/BlessCSS/bless) - CSS Post-Processor
-* [jmaczan/bulma-helpers](https://github.com/jmaczan/bulma-helpers) - Library with Functional / Atomic CSS classes for Bulma framework
-* [mjonuschat/bootstrap-sass-rails](https://github.com/mjonuschat/bootstrap-sass-rails) - HTML, CSS, and JS toolkit from Twitter – Official Sass port:
 * [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
+* [jmaczan/bulma-helpers](https://github.com/jmaczan/bulma-helpers) - Library with Functional / Atomic CSS classes for Bulma framework
 * [zxcodes/Calculator](https://github.com/zxcodes/Calculator) - A  Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.
-* [ozantekin/50Days50Projects](https://github.com/ozantekin/50Days50Projects) - This repository features 50 mini projects related to HTML, CSS, and JavaScript. The development stages of these projects are available on YouTube.
+* [mjonuschat/bootstrap-sass-rails](https://github.com/mjonuschat/bootstrap-sass-rails) - HTML, CSS, and JS toolkit from Twitter – Official Sass port:
 * [LunarLogic/auroral](https://github.com/LunarLogic/auroral) - Animated background gradients with pure CSS
+* [yesiamrocks/cssanimation.io](https://github.com/yesiamrocks/cssanimation.io) - CSS Animation Library for Developers and Ninjas
+* [parthwebdev/UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
 * [railsware/applepie](https://github.com/railsware/applepie) - Semantic and Modular CSS Toolkit
-* [jgthms/bulma-start](https://github.com/jgthms/bulma-start) - Start package for Bulma
+* [ozantekin/50Days50Projects](https://github.com/ozantekin/50Days50Projects) - This repository features 50 mini projects related to HTML, CSS, and JavaScript. The development stages of these projects are available on YouTube.
 * [niklausgerber/PreLoadMe](https://github.com/niklausgerber/PreLoadMe) - PreLoadMe, a lightweight jQuery website preloader.
 * [kjbrum/juice](https://github.com/kjbrum/juice) - Mixins for Life
+* [jgthms/bulma-start](https://github.com/jgthms/bulma-start) - Start package for Bulma
 * [jerryjappinen/layers-css](https://github.com/jerryjappinen/layers-css) - A lightweight, unobtrusive and style-agnostic, CSS framework aimed for practical use cases. Comes with a small footprint and zero bullshit.
-* [jritsema/go-htmx-tailwind-example](https://github.com/jritsema/go-htmx-tailwind-example) - Example CRUD app written in Go + HTMX + Tailwind CSS
-* [yesiamrocks/cssanimation.io](https://github.com/yesiamrocks/cssanimation.io) - CSS Animation Library for Developers and Ninjas
+* [codingstella/projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
 * [JuliaMendes/50-Projects-In-50-Days-](https://github.com/JuliaMendes/50-Projects-In-50-Days-) - HTML, CSS and JS projects.
-* [parthwebdev/UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
 * [ElzeroWebSchool/HTML_And_CSS_Template_One](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_One) - HTML And CSS Template One
 * [ElemeFE/postcss-salad](https://github.com/ElemeFE/postcss-salad) - 沙拉是一个能够帮助你写出更加简洁、优雅的CSS的样式解决方案
-* [mirisuzanne/compass-animate](https://github.com/mirisuzanne/compass-animate) - Compass port of Dan Eden's Animate.css
 * [codrops/ButtonHoverStyles](https://github.com/codrops/ButtonHoverStyles) - Some ideas for CSS-only button hover styles and animations
-* [codingstella/projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
-* [kristerkari/normalize.scss](https://github.com/kristerkari/normalize.scss) - SCSS version of normalize.css
+* [mirisuzanne/compass-animate](https://github.com/mirisuzanne/compass-animate) - Compass port of Dan Eden's Animate.css
+* [lazaronixon/css-zero](https://github.com/lazaronixon/css-zero) - An opinionated CSS starter kit for your "nobuild" application
 * [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) - Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
+* [kristerkari/normalize.scss](https://github.com/kristerkari/normalize.scss) - SCSS version of normalize.css
 * [mike-engel/a11y-css-reset](https://github.com/mike-engel/a11y-css-reset) - A small set of global rules to make things accessible and reset default styling
-* [smakosh/unnamed-css-framework](https://github.com/smakosh/unnamed-css-framework) - A simple colorful CSS framework
 * [escueladigital/EDgrid](https://github.com/escueladigital/EDgrid) - CSS/Sass library for responsive layouts | Libreria CSS/Sass para construir layouts responsive
-* [panicsteve/shutup-css](https://github.com/panicsteve/shutup-css) - CSS stylesheet to hide comments on web pages
 * [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
+* [smakosh/unnamed-css-framework](https://github.com/smakosh/unnamed-css-framework) - A simple colorful CSS framework
+* [panicsteve/shutup-css](https://github.com/panicsteve/shutup-css) - CSS stylesheet to hide comments on web pages
 * [getpavilion/pavilion](https://github.com/getpavilion/pavilion) - Pavilion CSS Framework. A solid starting point without the bloat.
+* [frontend-joe/css-reels](https://github.com/frontend-joe/css-reels) - Collection of CSS components built specifically for my Instagram page
 * [winstromming/sassdown](https://github.com/winstromming/sassdown) - Generates styleguides from Markdown comments in CSS, SASS and LESS files using Handlebars
 * [johnpolacek/extra-strength-responsive-grids](https://github.com/johnpolacek/extra-strength-responsive-grids) - A Fluid CSS Grid System for Responsive Web Design The Fluid CSS Grid System for Responsive Web Design. Take total control of your layouts.
 * [cyanharlow/purecss-gaze](https://github.com/cyanharlow/purecss-gaze) - HTML/CSS drawing in style of italian renaissance painting. Hand-coded entirely in HTML & CSS.
 * [argyleink/ragrid](https://github.com/argyleink/ragrid) - :octocat: Intrinsic first auto-layout flexbox grid
 * [luffyZh/dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - 🌈 A simple plugin to dynamic change ant-design theme whether less or css.
-* [frontend-joe/css-reels](https://github.com/frontend-joe/css-reels) - Collection of CSS components built specifically for my Instagram page
-* [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [elky/django-flat-responsive](https://github.com/elky/django-flat-responsive) - 📱 An extension for Django admin that makes interface mobile-friendly. Merged into Django 2.0
 * [daveberning/griddle](https://github.com/daveberning/griddle) - A CSS Grid Framework
+* [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [shankara-subramani/tinyreset](https://github.com/shankara-subramani/tinyreset) - Tiny CSS reset for the modern web
 * [newaeonweb/responsiveboilerplate](https://github.com/newaeonweb/responsiveboilerplate) - A lightweight (2kb) micro-library, elegant & minimalistic CSS3 grid system, made with only three main classes and 12 columns. It`s very easy to use and understand, pre-packed with some extra css helpers for mobile devices.
 * [amiechen/stitches-template-generator](https://github.com/amiechen/stitches-template-generator) - A web templates generator with functional css (tailwind.css)
 * [erictreacy/mimic.css](https://github.com/erictreacy/mimic.css) - Everyone else is doing it!
 * [teteusAraujo/portfolio](https://github.com/teteusAraujo/portfolio) - 👨‍💻 Meu portfólio criado com o objetivo de mostrar os meus projetos criados e também o meu currículo .
-* [imbrianj/debugCSS](https://github.com/imbrianj/debugCSS) - CSS to highlight potentially malformed, invalid or questionable markup.
-* [vol7/shorthand](https://github.com/vol7/shorthand) - Shrthnd is a handy tool that converts CSS properties into shorthand, making shorter and more readable stylesheets.
-* [gwannon/Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css) - This is a theme in CSS3 to simulate the interfaxes of the game CyberPunk 2077.
 * [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
+* [imbrianj/debugCSS](https://github.com/imbrianj/debugCSS) - CSS to highlight potentially malformed, invalid or questionable markup.
+* [gwannon/Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css) - This is a theme in CSS3 to simulate the interfaxes of the game CyberPunk 2077.
+* [vol7/shorthand](https://github.com/vol7/shorthand) - Shrthnd is a handy tool that converts CSS properties into shorthand, making shorter and more readable stylesheets.
+* [wizrdsh/FirefoxSidebar](https://github.com/wizrdsh/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
 * [boriskirov/fluiditype](https://github.com/boriskirov/fluiditype) - Fluiditype a simple fluid typography css helper for reading experience
 * [at-import/jacket](https://github.com/at-import/jacket) - Conditional Styles with Sass. Dress you CSS appropriately.
-* [drygiel/csslider](https://github.com/drygiel/csslider) - Pure CSS slider
 * [joe-bell/loading-disco](https://github.com/joe-bell/loading-disco) - An alternative to the loading spinner 🪩
-* [lazaronixon/css-zero](https://github.com/lazaronixon/css-zero) - An opinionated CSS starter kit for your "nobuild" application
+* [drygiel/csslider](https://github.com/drygiel/csslider) - Pure CSS slider
 * [jackyliang/Material-Design-For-Full-Calendar](https://github.com/jackyliang/Material-Design-For-Full-Calendar) - Material Design CSS theme for FullCalendar Weekly Agenda
-* [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
 * [MikeMitterer/dart-material-design-lite](https://github.com/MikeMitterer/dart-material-design-lite) - Material Design Lite Components, Directives + SPA with HTML, CSS + Dart
 * [mixu/cssbook](https://github.com/mixu/cssbook) - The book "Learn CSS layout the pedantic way"
 * [yearofmoo/ngAnimate-animate.css](https://github.com/yearofmoo/ngAnimate-animate.css) - A driver module to make animate.css work with AngularJS 1.2
 * [simaQ/cssfun](https://github.com/simaQ/cssfun) - css
 * [kaushikjadhav01/Online-Food-Ordering-Web-App](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App) - Online Food Ordering System Website using basic PHP, SQL, HTML & CSS. You can use any one of XAMPP, WAMP or LAMP server to run the Web App
-* [huanxi007/markdown-here-css](https://github.com/huanxi007/markdown-here-css) - 微信公众号毫秒级排版，让你的排版充满审美愉悦感。复制代码到“markdown here基本渲染css”即可。
 * [SpruceGabriela/30diasDeCSS](https://github.com/SpruceGabriela/30diasDeCSS) - 30 dias de CSS3 é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3
+* [huanxi007/markdown-here-css](https://github.com/huanxi007/markdown-here-css) - 微信公众号毫秒级排版，让你的排版充满审美愉悦感。复制代码到“markdown here基本渲染css”即可。
+* [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 * [ovdojoey/Juiced](https://github.com/ovdojoey/Juiced) - A Flexbox CSS Framework
 * [antfu/prism-theme-vars](https://github.com/antfu/prism-theme-vars) - A customizable Prism.js theme using CSS variables
 * [shellscape/gmail-classic](https://github.com/shellscape/gmail-classic) - CSS for reverting Gmail to the Classic Theme
-* [FriendsOfEpub/Blitz](https://github.com/FriendsOfEpub/Blitz) - An eBook Framework (CSS + template)
-* [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 * [iamshaunjp/html-and-css-crash-course](https://github.com/iamshaunjp/html-and-css-crash-course) - All the course files for the HTML & CSS crash course from The Net Ninja YouTube channel.
+* [FriendsOfEpub/Blitz](https://github.com/FriendsOfEpub/Blitz) - An eBook Framework (CSS + template)
+* [typecho-fans/themes](https://github.com/typecho-fans/themes) - Typecho Fans主题作品目录
 * [Idered/cssParentSelector](https://github.com/Idered/cssParentSelector) - CSS4 parent selector based on jQuery
 * [ArunMichaelDsouza/CSS-Mint](https://github.com/ArunMichaelDsouza/CSS-Mint) - Lightweight and simple to use UI Kit. Fully responsive, just 3KB gzipped.
-* [typecho-fans/themes](https://github.com/typecho-fans/themes) - Typecho Fans主题作品目录
+* [Roopaish/CSS-RoadMap](https://github.com/Roopaish/CSS-RoadMap) - Covering all the CSS aspects through the RoadMap. Buttons, Hover Effects, Animations, Emoji, Tooltips, Landing Page, Youtube Clone
 * [h5bp/main.css](https://github.com/h5bp/main.css) - A repository for the development of the HTML5 Boilerplate CSS file, main.css
-* [0xPrateek/Portfolio-Template](https://github.com/0xPrateek/Portfolio-Template) - A portfolio website template for Geeks,Programmers and hackers.
 * [tastejs/todomvc-app-css](https://github.com/tastejs/todomvc-app-css) - CSS for TodoMVC apps
 * [frontend-joe/css-navbars](https://github.com/frontend-joe/css-navbars) - Collection of responsive navbars built using HTML, CSS and JavaScript
-* [Roopaish/CSS-RoadMap](https://github.com/Roopaish/CSS-RoadMap) - Covering all the CSS aspects through the RoadMap. Buttons, Hover Effects, Animations, Emoji, Tooltips, Landing Page, Youtube Clone
+* [0xPrateek/Portfolio-Template](https://github.com/0xPrateek/Portfolio-Template) - A portfolio website template for Geeks,Programmers and hackers.
+* [RoseTheFlower/MetroSteam](https://github.com/RoseTheFlower/MetroSteam) - Metro skin for Steam. Reborn.
 * [eduardofierropro/Reset-CSS](https://github.com/eduardofierropro/Reset-CSS) - Código del Reset que uso a nivel profesional explicado línea a línea en Youtube
+* [CyanVoxel/Obsidian-Daily-Themes](https://github.com/CyanVoxel/Obsidian-Daily-Themes) - A Series of Daily Theme CSS Snippets for Obsidian.
+* [bedimcode/responsive-real-state-website](https://github.com/bedimcode/responsive-real-state-website) - Responsive Real State Website Design Using HTML CSS & JavaScript
+* [Set-Creative-Studio/cube-boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate) - A simple CUBE CSS boilerplate for Set Studio
 * [marcvannieuwenhuijzen/BootstrapXL](https://github.com/marcvannieuwenhuijzen/BootstrapXL) - CSS file with Bootstrap grid classes for screens bigger than 1600px
 * [joshuarudd/typeset.css](https://github.com/joshuarudd/typeset.css) - A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
 * [ecomfe/rider](https://github.com/ecomfe/rider) - Rider 是一个基于 Stylus 与后处理器、无侵入风格的 CSS 样式工具库
@@ -449,101 +452,103 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [csswizardry/csscv](https://github.com/csswizardry/csscv) - A simple, opinionated stylesheet for formatting semantic HTML to look like a CSS file.
 * [CreArts-Community/CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord) - Discord Theme | v3.0.3 | by Corellan
 * [JonathanSpeek/spacegrid](https://github.com/JonathanSpeek/spacegrid) - A no-frills responsive grid layout to help you get started on your next project.
-* [bedimcode/responsive-real-state-website](https://github.com/bedimcode/responsive-real-state-website) - Responsive Real State Website Design Using HTML CSS & JavaScript
+* [frontaid/natural-selection](https://github.com/frontaid/natural-selection) - CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors
 * [alectro/SCSScale](https://github.com/alectro/SCSScale) - Typographic modular scale starter based on body's font-size built on SCSS.
-* [Set-Creative-Studio/cube-boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate) - A simple CUBE CSS boilerplate for Set Studio
 * [korywakefield/iota](https://github.com/korywakefield/iota) - A responsive micro-framework for the grid spec powered by CSS custom properties.
 * [trevanhetzel/barekit](https://github.com/trevanhetzel/barekit) - A bare minimum responsive framework
-* [jhfrench/bootstrap-tree](https://github.com/jhfrench/bootstrap-tree) - JavaScript and LESS/CSS for creating Bootstrap-themed trees (to display hierarchical data).
 * [torch2424/aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework 🌴🐬
-* [RoseTheFlower/MetroSteam](https://github.com/RoseTheFlower/MetroSteam) - Metro skin for Steam. Reborn.
-* [briancodex/html-css-js-website-smooth-scroll](https://github.com/briancodex/html-css-js-website-smooth-scroll) - Simple website created using HTML, CSS & Javascript with smooth scroll effect
-* [frontaid/natural-selection](https://github.com/frontaid/natural-selection) - CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors
+* [jhfrench/bootstrap-tree](https://github.com/jhfrench/bootstrap-tree) - JavaScript and LESS/CSS for creating Bootstrap-themed trees (to display hierarchical data).
 * [xtoolkit/Micon](https://github.com/xtoolkit/Micon) - Micon, The iconic windows 10 font and CSS toolkit.
+* [briancodex/html-css-js-website-smooth-scroll](https://github.com/briancodex/html-css-js-website-smooth-scroll) - Simple website created using HTML, CSS & Javascript with smooth scroll effect
 * [WongMinHo/hexo-theme-miho](https://github.com/WongMinHo/hexo-theme-miho) - 🍺一款单栏响应式的hexo主题, A single column response for hexo . https://blog.minhow.com
+* [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
 * [iaronrp/Efeito-3D](https://github.com/iaronrp/Efeito-3D) - Efeito 3D - Zelda: criado com as tecnologias, Html, CSS e Java Script
-* [frameable/knopf.css](https://github.com/frameable/knopf.css) - Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications
-* [CyanVoxel/Obsidian-Daily-Themes](https://github.com/CyanVoxel/Obsidian-Daily-Themes) - A Series of Daily Theme CSS Snippets for Obsidian.
 * [benfrain/app-reset](https://github.com/benfrain/app-reset) - A minimal set of reset CSS specifically for web applications
+* [legacy-icons/famfamfam-silk](https://github.com/legacy-icons/famfamfam-silk) - Famfamfam Silk icons, made available in various package managers, shipped with CSS spritesheet
+* [frameable/knopf.css](https://github.com/frameable/knopf.css) - Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications
 * [Atharva1802/CSS-trickies](https://github.com/Atharva1802/CSS-trickies) - Here is the code for some cool CSS tricks that I've made.
-* [explosion/displacy-ent](https://github.com/explosion/displacy-ent) - :boom: displaCy-ent.js: An open-source named entity visualiser for the modern web
 * [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
+* [explosion/displacy-ent](https://github.com/explosion/displacy-ent) - :boom: displaCy-ent.js: An open-source named entity visualiser for the modern web
 * [vmcreative/Hexi-Flexi-Grid](https://github.com/vmcreative/Hexi-Flexi-Grid) - An SCSS partial that builds flexible, modular hex grids using CSS Grid
 * [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
-* [legacy-icons/famfamfam-silk](https://github.com/legacy-icons/famfamfam-silk) - Famfamfam Silk icons, made available in various package managers, shipped with CSS spritesheet
-* [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
 * [apache/cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world) - Apache Cordova Template App
-* [dbarochiya/me](https://github.com/dbarochiya/me) - This is the code implementation for the blog 'How to create your portfolio website in React.js'
 * [maykbrito/devlinks](https://github.com/maykbrito/devlinks) - Em 5h de aula, construa esse projeto e inicie na programação o mais rápido possível! ⭐️
+* [dbarochiya/me](https://github.com/dbarochiya/me) - This is the code implementation for the blog 'How to create your portfolio website in React.js'
 * [codepo8/CSS3-Rainbow-Dividers](https://github.com/codepo8/CSS3-Rainbow-Dividers) - No longer must your rainbow dividers be images slowing down your computer! Make them hardware accelerated!
 * [bassjobsen/typeahead.js-bootstrap-css](https://github.com/bassjobsen/typeahead.js-bootstrap-css) - LESS / CSS code for using typeahead.js with Bootstrap 3
+* [ryboe/CSS3](https://github.com/ryboe/CSS3) - The most complete CSS support for Sublime Text
 * [karlgroves/diagnostic.css](https://github.com/karlgroves/diagnostic.css) - Diagnostic.css is a stylesheet which allows the user to test for common errors in a page's markup
 * [sixrevisions/responsive-full-background-image](https://github.com/sixrevisions/responsive-full-background-image) - Sources files for a Six Revisions tutorial called Responsive Full Background Image Using CSS
-* [ryboe/CSS3](https://github.com/ryboe/CSS3) - The most complete CSS support for Sublime Text
 * [haydenbbickerton/vue-animate](https://github.com/haydenbbickerton/vue-animate) - *UNSUPPORTED* (active fork @ https://github.com/asika32764/vue2-animate)  Vue.js port of Animate.css
 * [bedimcode/responsive-ecommerce-website](https://github.com/bedimcode/responsive-ecommerce-website) - Responsive Ecommerce Website Using HTML CSS JavaScript
 * [arp242/hello-css](https://github.com/arp242/hello-css) - A CSS template focused on readability
+* [Socvest/streamlit-on-Hover-tabs](https://github.com/Socvest/streamlit-on-Hover-tabs) - Custom tabs for on hover streamlit navigation bar created by custom css
+* [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 * [cat-a-flame/CSSHell](https://github.com/cat-a-flame/CSSHell) - Collection of common CSS mistakes, and how to fix them
+* [bedimcode/responsive-car-website](https://github.com/bedimcode/responsive-car-website) - Responsive Car Website Design Using HTML CSS & JavaScript
 * [alecrios/core-reset](https://github.com/alecrios/core-reset) - A CSS reset that reduces all elements to their most basic forms
 * [0kzh/minimal-youtube](https://github.com/0kzh/minimal-youtube) - Arc Boost to clean up the YouTube UI
 * [tzi/chewing-grid.css](https://github.com/tzi/chewing-grid.css) - A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries.
-* [Socvest/streamlit-on-Hover-tabs](https://github.com/Socvest/streamlit-on-Hover-tabs) - Custom tabs for on hover streamlit navigation bar created by custom css
-* [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 * [pbakaus/transformie](https://github.com/pbakaus/transformie) - Transformie is a javascript plugin that comes in less than 5k that you embed into web pages and that brings you CSS Transforms by mapping the native IE Filter API to CSS trandforms as proposed by Webkit.
 * [Angelmmiguel/graaf](https://github.com/Angelmmiguel/graaf) - A collection of pure CSS grids for designing your new projects
-* [bedimcode/responsive-car-website](https://github.com/bedimcode/responsive-car-website) - Responsive Car Website Design Using HTML CSS & JavaScript
-* [viduthalai1947/loaderskit](https://github.com/viduthalai1947/loaderskit) - Single Element Pure CSS Spinners & Loaders
 * [ream88/stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order) - stylelint + idiomatic-css = ❤️
+* [viduthalai1947/loaderskit](https://github.com/viduthalai1947/loaderskit) - Single Element Pure CSS Spinners & Loaders
+* [npjg/classic.css](https://github.com/npjg/classic.css) - Generate a Classic Mac interface in your browser
 * [kevinjycui/css-video](https://github.com/kevinjycui/css-video) - Converts images and video frames to pure CSS + HTML files using Breadth-first Search and Canny Edge Detection with keyframe animations
+* [SudeepAcharjee/The-50-Front-end-Project](https://github.com/SudeepAcharjee/The-50-Front-end-Project) - This git repository consists of a collection of 50 carefully curated frontend projects that showcase your skills and creativity as a frontend developer. Each project is unique and visually stunning, demonstrating your proficiency in a wide range of technologies and design principles
 * [MartinChavez/HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) - HTML/CSS: Advanced Topics
 * [catalinred/css3-patterned-buttons](https://github.com/catalinred/css3-patterned-buttons) - CSS3 buttons with base64 noise pattern effect.
-* [npjg/classic.css](https://github.com/npjg/classic.css) - Generate a Classic Mac interface in your browser
 * [jovey-zheng/loader](https://github.com/jovey-zheng/loader) - Pure css loading animations. As long as only one element!
 * [ksmandersen/compass-normalize](https://github.com/ksmandersen/compass-normalize) - A compass plugin for using normalize.css
 * [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 * [csswizardry/discovr](https://github.com/csswizardry/discovr) - CSS Architecture workshop files
 * [tamino-martinius/ui-snippets-menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 * [groovydev/twitter-bootstrap-grails-plugin](https://github.com/groovydev/twitter-bootstrap-grails-plugin) - Grails plugin for Twitter Bootstrap CSS framework resources
-* [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-* [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-* [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-* [MauriceConrad/Photon](https://github.com/MauriceConrad/Photon) - Clone native desktop UI's like cocoa and develop native feeling applications using web technologies
 * [innocenzi/tailwindcss-scroll-snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - CSS Scroll Snap utilities for Tailwind CSS
+* [bedimcode/responsive-portfolio-website-chris](https://github.com/bedimcode/responsive-portfolio-website-chris) - Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
 * [userexec/Pi-Kitchen-Dashboard](https://github.com/userexec/Pi-Kitchen-Dashboard) - A simple HTML/CSS/JS time and weather dashboard for use with Raspberry Pi and Chromium
 * [bchanx/animated-gameboy-in-css](https://github.com/bchanx/animated-gameboy-in-css) - Animated Gameboy created in CSS.
+* [MuriungiPatrick/Bootstrap-5-Theming-Kit](https://github.com/MuriungiPatrick/Bootstrap-5-Theming-Kit) - A Theming kit to Customize Bootstrap 5 with Sass
+* [qieguo2016/iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
+* [LinWin-Cloud/setool-master](https://github.com/LinWin-Cloud/setool-master) - SetoolMaster是一款让你入门即入狱的python3开发的进阶型社会工程学工具。包括了全球定位、Ngrok内网穿透、Seeker高精度定位、网页钓鱼、病毒攻击、恐吓勒索信、爬虫、网站克隆、物联网设备搜索等，同时拥有中文支持，内置大量钓鱼模板，设计用于组织级别红队渗透测试，用于团队组织设备型协同，经过非常多的实战演练，效果出众，远超同行产品
+* [aalvarado/JiraDarkTheme](https://github.com/aalvarado/JiraDarkTheme) - 🌙 😎 Jira Dark Theme Usercss / Stylus
+* [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -> slideshow ——Write PPT like a programmer
 * [t32k/maple](https://github.com/t32k/maple) - A better front-end boilerplate.
 * [sathify/CCSS](https://github.com/sathify/CCSS) - CSS architecture for web applications
-* [qieguo2016/iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
-* [aalvarado/JiraDarkTheme](https://github.com/aalvarado/JiraDarkTheme) - 🌙 😎 Jira Dark Theme Usercss / Stylus
-* [bedimcode/responsive-portfolio-website-chris](https://github.com/bedimcode/responsive-portfolio-website-chris) - Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
-* [zavoloklom/material-design-color-palette](https://github.com/zavoloklom/material-design-color-palette) - Material Design Color Palette: LESS/CSS toolkit
-* [MuriungiPatrick/Bootstrap-5-Theming-Kit](https://github.com/MuriungiPatrick/Bootstrap-5-Theming-Kit) - A Theming kit to Customize Bootstrap 5 with Sass
 * [dmhendricks/bootstrap-grid-css](https://github.com/dmhendricks/bootstrap-grid-css) - The grid and responsive utilities classes extracted from the Bootstrap 4 framework, compiled into CSS.
 * [catc/simple-hint](https://github.com/catc/simple-hint) - CSS-only tooltip packed with a variety of features.
-* [uloga/modulr.css](https://github.com/uloga/modulr.css) - :jack_o_lantern:Modulr.css - A fast and easy modular approach to building powerful web and mobile interfaces.:ghost:
+* [zavoloklom/material-design-color-palette](https://github.com/zavoloklom/material-design-color-palette) - Material Design Color Palette: LESS/CSS toolkit
 * [sindresorhus/ios-landing-page](https://github.com/sindresorhus/ios-landing-page) - Landing page template for iOS apps
-* [Jinkeycode/vscode-transparent-glow](https://github.com/Jinkeycode/vscode-transparent-glow) - transparent vscode css
 * [diagnosticss/diagnosticss](https://github.com/diagnosticss/diagnosticss) - Diagnostic CSS stylesheet that helps visually detect any potentially invalid, inaccessible or erroneous HTML markup.
 * [codrops/CSSMarqueeMenu](https://github.com/codrops/CSSMarqueeMenu) - A simple CSS based marquee effect for a menu.
+* [uloga/modulr.css](https://github.com/uloga/modulr.css) - :jack_o_lantern:Modulr.css - A fast and easy modular approach to building powerful web and mobile interfaces.:ghost:
+* [Jinkeycode/vscode-transparent-glow](https://github.com/Jinkeycode/vscode-transparent-glow) - transparent vscode css
+* [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 * [codrops/ArrowNavigationStyles](https://github.com/codrops/ArrowNavigationStyles) - Some inspiration for arrow navigation styles and hover effects using SVG icons for the arrows, and CSS transitions and animations for the effects.
-* [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -> slideshow ——Write PPT like a programmer
 * [OwlyStuff/amazium](https://github.com/OwlyStuff/amazium) - The responsive CSS web framework
 * [JontyYang/Html_Css](https://github.com/JontyYang/Html_Css) - html5 css
+* [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 * [8lueberry/google-material-color](https://github.com/8lueberry/google-material-color) - Google material color for SASS, LESS, Stylus, CSS, JS, etc
 * [YJLAugus/cnblogs-theme-simple-color](https://github.com/YJLAugus/cnblogs-theme-simple-color) - 一个简约极致色彩的博客园主题
 * [Dev-Jeromebaek/awesome-web-styling](https://github.com/Dev-Jeromebaek/awesome-web-styling) - Awesome Web Styling with CSS Animation Effects ⭐️
 * [callmenick/CSS-Circle-Menu](https://github.com/callmenick/CSS-Circle-Menu) - A fly-out circle menu built with CSS.
 * [zweilove/css_splitter](https://github.com/zweilove/css_splitter) - Gem for splitting up stylesheets that go beyond the IE limit of 4095 selectors, for Rails 3.1+ apps using the Asset Pipeline.
+* [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+* [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
+* [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+* [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
+* [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
+* [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+* [MauriceConrad/Photon](https://github.com/MauriceConrad/Photon) - Clone native desktop UI's like cocoa and develop native feeling applications using web technologies
 * [zhongxia245/blog](https://github.com/zhongxia245/blog) - 这是一个Blog， 如果喜欢可以订阅，是Watch, 不是 Star 哈。。。
 * [micjamking/navigataur](https://github.com/micjamking/navigataur) - A pure CSS responsive navigation menu
-* [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 * [DXY-F2E/dxy-ui](https://github.com/DXY-F2E/dxy-ui) - 一套适用于PC端的前端UI库，囊括了基础样式以及十余个基础组件。
 * [shbwb/bwb](https://github.com/shbwb/bwb) - A basic webpage builder
 * [i-akhmadullin/Sublime-CSS3](https://github.com/i-akhmadullin/Sublime-CSS3) - at this point just use official CSS package =>
 * [BraydenTW/react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) - 👨‍🎨 An open-source portfolio template built with React and Tailwind.
 * [agauniyal/wireframe](https://github.com/agauniyal/wireframe) - minimal wireframing css-framework 🎈
 * [michaeltaranto/basekick](https://github.com/michaeltaranto/basekick) - Typographical baselines for CSS
-* [LinWin-Cloud/setool-master](https://github.com/LinWin-Cloud/setool-master) - SetoolMaster是一款让你入门即入狱的python3开发的进阶型社会工程学工具。包括了全球定位、Ngrok内网穿透、Seeker高精度定位、网页钓鱼、病毒攻击、恐吓勒索信、爬虫、网站克隆、物联网设备搜索等，同时拥有中文支持，内置大量钓鱼模板，设计用于组织级别红队渗透测试，用于团队组织设备型协同，经过非常多的实战演练，效果出众，远超同行产品
 * [ruipenso/ucss](https://github.com/ruipenso/ucss) - UCSS - Utility CSS
 * [kenangundogan/flexible-grid](https://github.com/kenangundogan/flexible-grid) - Flexible grid layouts to get you familiar with building within the flexible grid system.(HTML, CSS, SASS, SCSS)
 * [phax/ph-css](https://github.com/phax/ph-css) - Advanced Java CSS 3 parser and builder
@@ -571,7 +576,6 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [adobe-webplatform/Demo-for-Alice-s-Adventures-in-Wonderland](https://github.com/adobe-webplatform/Demo-for-Alice-s-Adventures-in-Wonderland) - Demo of CSS Shapes using the Alice in Wonderland story.
 * [wecatch/markdown-css](https://github.com/wecatch/markdown-css) - A tool convert css style into markdown inline style
 * [SiriusBYT/Flashcord](https://github.com/SiriusBYT/Flashcord) - The world's most advanced, complex and feature rich Discord Theme to ever exist. A complete yet user-friendly visual overhaul for Discord with many QoL features and virtually endless customization options.
-* [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 * [Amoenus/SwaggerDark](https://github.com/Amoenus/SwaggerDark) - CSS with dark theme for SwaggerUI
 * [huruji/loading](https://github.com/huruji/loading) - loading动画合集
 * [7ninjas/scss-mixins](https://github.com/7ninjas/scss-mixins) - Collection of scss mixins and functions to ease and improve implementations of common style-code patterns.
@@ -692,7 +696,6 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [escueladigital/Trucos-CSS](https://github.com/escueladigital/Trucos-CSS) - Repositorio de la serie Trucos CSS publicados en YouTube
 * [codrops/GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) - A slideshow that uses a CSS glitch effect for slide transitions.
 * [christian-fei/Timeline.css](https://github.com/christian-fei/Timeline.css) - Share life and work events with Timeline.css! Sass and SCSS port too!
-* [BPanchenko/protosite-uikit](https://github.com/BPanchenko/protosite-uikit) - Библиотека правил CSS для определения представления элементов веб-интерфейса. Типизированные CSS-модули импортируются в CommonJS и ECMAScript
 * [aaroniker/framy-css](https://github.com/aaroniker/framy-css) - Very simple CSS Framework
 * [zachwaugh/Helveticards](https://github.com/zachwaugh/Helveticards) - 100% CSS playing cards, originally created for the Pitboss poker server, you can see live demo at link below
 * [piazzai/hacked-jekyll](https://github.com/piazzai/hacked-jekyll) - Jekyll microtheme that looks like JSON
