@@ -1,7 +1,7 @@
 # awesome-css
 
 A curated list of awesome CSS frameworks, libraries and software.
-
+* [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular 💪
 * [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 * [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 * [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
