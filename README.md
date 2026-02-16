@@ -1099,3 +1099,6 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [Semantic-Org/Semantic-UI-CSS](https://github.com/Semantic-Org/Semantic-UI-CSS) - CSS Only distribution
 * [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript and Firefox's component registrar to implement its more functional features.
 * [good-father/vue-transition.css](https://github.com/good-father/vue-transition.css) - vue-transition  animation
+* [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - The SCSS framework for the modern web.
+* [Cirrus-UI/Cirrus-Start](https://github.com/Cirrus-UI/Cirrus-Start) - ⚡ The fastest way to build, develop, and deploy your next project with Cirrus.
+* [Cirrus-UI/Cirrus-Intellisense](https://github.com/Cirrus-UI/Cirrus-Intellisense) - 🌟 Next generation auto-complete for Cirrus CSS classes.
