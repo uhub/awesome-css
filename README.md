@@ -3,6 +3,7 @@
 A curated list of awesome CSS frameworks, libraries and software.
 
 * [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+* [tyr1105/tailmotion](https://github.com/tyr1105/tailmotion) - 150+ production-ready CSS animations with Tailwind classes.
 * [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 * [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
