@@ -38,6 +38,7 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 * [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 * [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+* [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization (CLI/programmatic/PostCSS)
 * [jonasschmedtmann/advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course) - Starter files, final projects and FAQ for my Advanced CSS course
 * [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
 * [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -179,6 +180,7 @@ A curated list of awesome CSS frameworks, libraries and software.
 * [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
 * [jpswalsh/academicons](https://github.com/jpswalsh/academicons) - An icon font for academics
 * [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
+* [j9t/qa-style-sheet](https://github.com/j9t/qa-style-sheet) - QA CSS bookmarklet
 * [sierra-library/sierra](https://github.com/sierra-library/sierra) - Sierra SCSS library
 * [CyanVoxel/Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
 * [lazaronixon/css-zero](https://github.com/lazaronixon/css-zero) - An opinionated front-end starter kit for your "nobuild" application
